@@ -1,0 +1,39 @@
+C:\Users\RVeVe\source\repos\Projekat 2\Projekat 2\obj\Debug\Projekat 2.csproj.AssemblyReference.cache
+C:\Users\RVeVe\source\repos\Projekat 2\Projekat 2\obj\Debug\Projekat_2.frmAdministracija.resources
+C:\Users\RVeVe\source\repos\Projekat 2\Projekat 2\obj\Debug\Projekat_2.frmLog.resources
+C:\Users\RVeVe\source\repos\Projekat 2\Projekat 2\obj\Debug\Projekat_2.frmPomoc.resources
+C:\Users\RVeVe\source\repos\Projekat 2\Projekat 2\obj\Debug\Projekat_2.frmProdaja.resources
+C:\Users\RVeVe\source\repos\Projekat 2\Projekat 2\obj\Debug\Projekat_2.Properties.Resources.resources
+C:\Users\RVeVe\source\repos\Projekat 2\Projekat 2\obj\Debug\Projekat 2.csproj.GenerateResource.cache
+C:\Users\RVeVe\source\repos\Projekat 2\Projekat 2\obj\Debug\Projekat 2.csproj.CoreCompileInputs.cache
+C:\Users\RVeVe\source\repos\Projekat 2\Projekat 2\bin\Debug\Projekat 2.exe.config
+C:\Users\RVeVe\source\repos\Projekat 2\Projekat 2\bin\Debug\Projekat 2.exe
+C:\Users\RVeVe\source\repos\Projekat 2\Projekat 2\bin\Debug\Projekat 2.pdb
+C:\Users\RVeVe\source\repos\Projekat 2\Projekat 2\obj\Debug\Projekat 2.exe
+C:\Users\RVeVe\source\repos\Projekat 2\Projekat 2\obj\Debug\Projekat 2.pdb
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\bin\Debug\Projekat 2.exe.config
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\bin\Debug\Projekat 2.exe
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\bin\Debug\Projekat 2.pdb
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat 2.csproj.AssemblyReference.cache
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat_2.frmAdministracija.resources
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat_2.frmLog.resources
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat_2.frmPomoc.resources
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat_2.frmProdaja.resources
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat_2.Properties.Resources.resources
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat 2.csproj.GenerateResource.cache
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat 2.csproj.CoreCompileInputs.cache
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat 2.exe
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat 2.pdb
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\bin\Debug\Projekat 2.exe.config
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\bin\Debug\Projekat 2.exe
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\bin\Debug\Projekat 2.pdb
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat 2.csproj.AssemblyReference.cache
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat_2.frmAdministracija.resources
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat_2.frmLog.resources
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat_2.frmPomoc.resources
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat_2.frmProdaja.resources
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat_2.Properties.Resources.resources
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat 2.csproj.GenerateResource.cache
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat 2.csproj.CoreCompileInputs.cache
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat 2.exe
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat 2\Projekat 2\obj\Debug\Projekat 2.pdb
